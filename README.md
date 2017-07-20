@@ -1,4 +1,4 @@
-#### 基本信息
+#### 个人信息
 ![Alt text](https://raw.githubusercontent.com/liulongzhenhai/markdownphoto/master/my.jpg "有好也有坏")
 * 姓名：刘龙振海
 * 电话：[18688185397](tel:18688185397)
@@ -10,16 +10,15 @@
 --------------
 
 #### 个人能力
-* Java、net
+* Java、.net、c、VB
 * okHttp、retrofit、Volley
-* Fresco、Picasso、ImageLoader
-* Realm、Sqlite
-* ButterKnife、Dagger2、LeakCanary
-* RxAndroid
-* Git
-* 管理能力、组织能力、应对突发事变
+* Realm、Sqlite、ButterKnife、Dagger2、LeakCanary
+* RxAndroid、RxJava
+* SVN、Git
+* Markdown
+* 管理能力、组织能力
 * 人员管理 、协调能力
-* 讲“故事”能力 、打杂
+* 讲“故事” 、打杂
 
 --------------
 #### 工作经历
@@ -33,12 +32,13 @@
 7. 迭代周期控制，小版本2周，大版本1个月
 8. 制定代码review在每次pr上进行,在每版本后进行复盘
 9. 采用Gitflow 流管理
-10. `在视频观看量统计上没做用户区分导致数据失真`
-11. `发布了一次测试版本到线上`
 * 2014.11~2016.6 北京穷游天下科技有限公司  `Android 组长`
 1. 完成穷游APP重构
 2. 完成RX网络请求框架 注解方式指定缓存类型
 3. Android进度把控
+* 2012.6.18~2014.10 远光软件股份有限公司 `Android 组长`
+1. 搭建公司Android开发框架
+2. 开发PHP接口
 * 2011.7.18~2012.6.15 珠海掌媒数字新媒体有限公司  `Android 组长`
 1. 驻点移动公司开发
 2. 24小时完成新闻客户端开发
